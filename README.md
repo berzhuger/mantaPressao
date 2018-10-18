@@ -1,4 +1,4 @@
-#Projeto Manta de Pressão
+# Projeto Manta de Pressão
 - Definições da coleta de dados da manta de pressão:
  - A comunicação vai ser feita via Web Service desenvolvido em python
  - Sera feita a comunicação via Protocolo HTTP/HTTPS sendo enviado uma requisição POST no determinado endpoint:
